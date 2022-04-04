@@ -1,0 +1,21 @@
+body {background-color: black; color:white}
+
+.cell {width:40px; height:40px;text-align: center}
+.cell img {width:25px; height:auto}
+.floor {background-color: gray}
+.wall {background-color: brown}
+
+.score{
+    font-size: 50px;
+}
+
+.modal{
+    width: 300px;
+    height: 200px;
+    background-color: blueviolet;
+    display: none;
+    position: absolute;
+    
+}
+
+
